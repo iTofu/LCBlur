@@ -8,6 +8,8 @@
 
 🌙️ 快速模糊效果 ~
 
+![LCBlur](https://raw.githubusercontent.com/iTofu/LCBlur/master/LCBlurDemo01.png)
+
 ````
 In me the tiger sniffs the rose.
 
